@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/gray_six">
+
+
+    <RelativeLayout
+        android:id="@+id/llUp"
+        android:layout_width="match_parent"
+        android:layout_height="164dp"
+        android:background="@color/white">
+
+        <android.support.v7.widget.AppCompatEditText
+            android:id="@+id/blogEditText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            android:layout_marginTop="14dp"
+            android:background="@color/white"
+            android:hint="说点什么呗"
+            android:maxLines="5"
+            android:textColorHint="@color/gray_four"
+            android:textSize="16sp"></android.support.v7.widget.AppCompatEditText>
+
+        <ImageView
+            android:id="@+id/emoji"
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginBottom="16dp"
+            android:layout_marginRight="16dp"
+            android:background="@drawable/selector_newchatbox_emoji" />
+
+    </RelativeLayout>
+
+
+    <com.ytying.emoji.SmileLayout
+        android:id="@+id/write_smile_panel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:visibility="visible"></com.ytying.emoji.SmileLayout>
+
+
+</RelativeLayout>

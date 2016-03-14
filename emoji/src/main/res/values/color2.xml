@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="red_water">#ffd7cc</color>
+    <color name="red_light">#ffaf99</color>
+    <color name="red_normal">#ff8766</color>
+    <color name="red_dark">#e6562e</color>
+    <color name="red_stone">#cc2c00</color>
+
+    <color name="green_water">#f2ffcc</color>
+    <color name="green_light">#d3eb8d</color>
+    <color name="green_normal">#b8d957</color>
+    <color name="green_dark">#99bf26</color>
+    <color name="green_stone">#7ca600</color>
+
+    <color name="orange_water">#ffeacc</color>
+    <color name="orange_light">#ffd599</color>
+    <color name="orange_normal">#ffbf66</color>
+    <color name="orange_dark">#e6992e</color>
+    <color name="orange_stone">#cc7700</color>
+
+    <color name="blue_water">#cceaff</color>
+    <color name="blue_light">#99d5ff</color>
+    <color name="blue_normal">#66bfff</color>
+    <color name="blue_dark">#2e99e6</color>
+    <color name="blue_stone">#0077cc</color>
+
+    <color name="purple_water">#fbe5ff</color>
+    <color name="purple_light">#e0c3e6</color>
+    <color name="purple_normal">#c5a3cc</color>
+    <color name="purple_dark">#a76bb3</color>
+    <color name="purple_stone">#8a3d99</color>
+
+    <color name="gray_seven">#f8f8f8</color>
+    <color name="gray_six">#f2f2f2</color>
+    <color name="gray_five">#dadada</color>
+    <color name="gray_four">#bdbdbd</color>
+    <color name="gray_three">#7a7a7a</color>
+    <color name="gray_two">#636363</color>
+    <color name="gray_one">#212121</color>
+
+    <color name="white">#ffffff</color>
+    <color name="orange_background">#f7f5ed</color>
+    <color name="actionbarColor">@color/red_dark</color>
+    <color name="statusColor">@color/white</color>
+
+    <color name="alpha_50pct_white">#80FFFFFF</color>
+    <color name="alpha_90pct_white">#E0FFFFFF</color>
+    <color name="alpha_80pct_white">#C8FFFFFF</color>
+    <color name="alpha_50pct_black">#80000000</color>
+    <color name="alpha_30pct_black">#48000000</color>
+    <color name="alpha_0x20_black">#20000000</color>
+    <color name="alpha_0x05_black">#05000000</color>
+    <color name="alpha_13pct_black">#20000000</color>
+
+</resources>
